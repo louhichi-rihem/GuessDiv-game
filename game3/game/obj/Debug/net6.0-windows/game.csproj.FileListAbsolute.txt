@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.Form1.resources
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Bureau\game1\game\game\bin\Debug\net6.0-windows\game.exe
+C:\Users\HP\OneDrive\Bureau\game1\game\game\bin\Debug\net6.0-windows\game.deps.json
+C:\Users\HP\OneDrive\Bureau\game1\game\game\bin\Debug\net6.0-windows\game.runtimeconfig.json
+C:\Users\HP\OneDrive\Bureau\game1\game\game\bin\Debug\net6.0-windows\game.dll
+C:\Users\HP\OneDrive\Bureau\game1\game\game\bin\Debug\net6.0-windows\game.pdb
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.dll
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\refint\game.dll
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.pdb
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Bureau\game1\game\game\obj\Debug\net6.0-windows\ref\game.dll
